@@ -8,7 +8,7 @@ email: kroblehosaman@gmail.com
 télephone: "+253 77232447"
 skills:
 - {}
-nom: 'Adobe Photoshop '
+nom: " Adobe Photoshop "
 
 ---
 # hello !
